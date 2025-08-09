@@ -91,34 +91,6 @@ It leverages **consistent hashing** to allow dynamic node additions/removals wit
 
 ---
 
-##  Getting Started
-
-1. **Clone the repository:**
-
-```bash
-git clone https://github.com/Abhinandan-iitb/Distributed_Key_Value_Store.git
-```
-
-2. **Install dependencies** (if applicable):
-
-```bash
-pip install -r requirements.txt
-```
-
-3. **Run the server:**
-
-```bash
-python server.py
-```
-
-4. **Run the client:**
-
-```bash
-python client.py
-```
-
----
-
 ## 👨‍💻 Authors
 
 * **Vishal Kumar Singh** (24M0742)
