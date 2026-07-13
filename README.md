@@ -93,7 +93,6 @@ It leverages **consistent hashing** to allow dynamic node additions/removals wit
 
 ## 👨‍💻 Authors
 
-* **Vishal Kumar Singh** (24M0742)
 * **Abhinandan Kumar** (24M0788)
 
 **Guided by:** Prof. **Purushottam (Puru) Kulkarni**, IIT Bombay
